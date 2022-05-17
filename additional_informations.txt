@@ -1,0 +1,3 @@
+Python files must be run with one additional argument, 0 or 1. For example: 'python 2a.py 1'.
+0 - show plot
+1 - save plot
